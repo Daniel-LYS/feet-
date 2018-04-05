@@ -1,0 +1,37 @@
+class feet
+{
+  public:
+    send();
+
+  protect:
+    
+  priate:
+}
+
+class sound
+{
+  public:
+    send()
+    {
+       zhong();
+       zuo();
+       you();
+    }
+
+  protect:
+
+  priate:
+    zhong()
+    {
+       ce;
+    }
+    zuo();
+    you();
+}
+
+class youqian feet
+{
+  public:
+
+  priate:
+}
